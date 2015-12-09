@@ -1,0 +1,12 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/2.3.0/css/bootstrap.css" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/2.3.0/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/2.3.0/css/docs.css" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/2.3.0/css/main.css" rel="stylesheet">
+
+<style>
+body {
+	padding-top: 40px;
+}
+</style>
